@@ -105,6 +105,7 @@
       font-size: 2rem;
     }
     .text-container {
-      text-align: justify;
+        text-align: justify;
+        margin: 2rem 0;
     }
   }
