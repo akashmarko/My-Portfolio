@@ -51,6 +51,7 @@ a:hover{
     text-decoration: underline;
     text-underline-offset: 1rem;
     text-decoration-color: rgb(181, 181, 181);
+    cursor: pointer;
 }
 .logo{
     font-size: 2rem;
